@@ -25,9 +25,10 @@
 - extension=soap
 - extension=sodium
 
-### Initial setup Process:
+### Initial setup process & resources:
 - https://laravel.com/docs/10.x/installation#your-first-laravel-project
 - https://laravel.com/docs/10.x/starter-kits#laravel-breeze-installation
-- for DB: https://laravel.com/docs/10.x/database
+- For DB: https://laravel.com/docs/10.x/database
+- In case of Docker, laravel/sail https://laravel.com/docs/10.x/sail
 
 (indien auth nodig, ff reinstall met bovenstaande instructies of php artisan breeze:install vue)
