@@ -9,6 +9,7 @@
 - composer install
 - php artisan serve (Laravel server port 8000)
 - npm run dev (Vite watch)
+- .env.example to .env
 
 #### Requirements: 
 - php 8.1
