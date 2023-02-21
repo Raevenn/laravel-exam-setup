@@ -5,6 +5,7 @@
 - MySQL (of evt SQLlite)
 
 ## Dev Setup:
+- git clone
 - npm install
 - composer install
 - php artisan serve (Laravel server port 8000)
